@@ -19,6 +19,8 @@
   text-align: center;
   border-collapse: collapse;
   background-color: white;
+  box-shadow: 0px 0px 10px 7px black;
+  margin-bottom: 30px;
 }
 
 th, td {
@@ -28,4 +30,13 @@ th, td {
 
 img {
   scale: 50%;
+}
+
+* {
+  font-family: 'Comic Sans MS';
+}
+
+h2 {
+  color: white;
+  text-shadow: 5px 5px 3px black;
 }
